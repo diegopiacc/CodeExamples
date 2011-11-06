@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="TRender.LightRecon" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LightRecon.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAIgAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.PhysicWrapper" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PhysicWrapper.cs</FileName>
+      <HashCode>AAAAAFAAAAFAAAAAAABAAAAAAAQEEgAAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.Renderable" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Renderable.cs</FileName>
+      <HashCode>AAAAAEACAAAAAAAgAAAAIAAAACAAAAAIABACAAAAAQA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TRenderer" />
+    </ShowAsAssociation>
+    <AssociationLine Name="TRenderer" Type="TRender.TRenderer">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.1" Y="0.081" Height="0.16" Width="0.833" />
+      </MemberNameLabel>
+    </AssociationLine>
+  </Class>
+  <Class Name="TRender.RenderableCloth" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RenderableCloth.cs</FileName>
+      <HashCode>AABAAECSEAHCAAADEAAAAAAAADAAgAAAABADAAEAIQM=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.RenderableLight" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RenderableLight.cs</FileName>
+      <HashCode>AAAAAAAQAIAAAAAoAAAAIAAAAgAAAAAAgBACAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.RenderableSphere" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RenderableSphere.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.RenderableVertex" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RenderableVertex.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.RenderableWall" Collapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RenderableWall.cs</FileName>
+      <HashCode>AABAAACCAACAAAAAAAAAAAAAACAAAAAAABACAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.TextureManager" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TextureManager.cs</FileName>
+      <HashCode>AAAAAAAAAAIACAAAAAAAACAgAABAAgAAYAAAAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.Trackball" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Trackball.cs</FileName>
+      <HashCode>AAAAAAAAKEAgAADgAAIAgAQBQAAAQAAAAAAAgAQBAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRender.TRenderer" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TRenderer.cs</FileName>
+      <HashCode>ABAACEACADEAkDCBEgEkBYIAcDIAAAAAAAAAAlAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
