@@ -1,0 +1,896 @@
+// !$*UTF8*$!
+{
+	1B57FB700DA56F450091B3B1 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3356, 935}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1515}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DiceRoller */ = {
+		activeExec = 0;
+		executables = (
+			F16A7CC011629FF400BDE70B /* DiceRoller */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F16A7CC011629FF400BDE70B /* DiceRoller */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DiceRoller */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = F16A7CE311629FFA00BDE70B /* Code sense */;
+		executables = (
+			F16A7CC011629FF400BDE70B /* DiceRoller */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					822,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					860,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342288377;
+			PBXWorkspaceStateSaveDate = 342288377;
+		};
+		perUserProjectItems = {
+			F16816F3118A347200A0C063 /* PBXTextBookmark */ = F16816F3118A347200A0C063 /* PBXTextBookmark */;
+			F168448212282B4500EC73D8 /* PBXTextBookmark */ = F168448212282B4500EC73D8 /* PBXTextBookmark */;
+			F168448312282B4500EC73D8 /* PBXBookmark */ = F168448312282B4500EC73D8 /* PBXBookmark */;
+			F168448712282B4500EC73D8 /* PBXTextBookmark */ = F168448712282B4500EC73D8 /* PBXTextBookmark */;
+			F168473911F8B4EC00A730AE /* PBXTextBookmark */ = F168473911F8B4EC00A730AE /* PBXTextBookmark */;
+			F1684C0A120DB25600568368 /* PBXTextBookmark */ = F1684C0A120DB25600568368 /* PBXTextBookmark */;
+			F169F753116A2C8E00772DB8 /* PBXTextBookmark */ = F169F753116A2C8E00772DB8 /* PBXTextBookmark */;
+			F169F75C116A2C8E00772DB8 /* PBXTextBookmark */ = F169F75C116A2C8E00772DB8 /* PBXTextBookmark */;
+			F169F761116A2C8E00772DB8 /* PBXTextBookmark */ = F169F761116A2C8E00772DB8 /* PBXTextBookmark */;
+			F169F777116A2D6700772DB8 /* PBXTextBookmark */ = F169F777116A2D6700772DB8 /* PBXTextBookmark */;
+			F169F77E116A2D6700772DB8 /* PBXTextBookmark */ = F169F77E116A2D6700772DB8 /* PBXTextBookmark */;
+			F16A1A4F1221774200CC416A /* PBXTextBookmark */ = F16A1A4F1221774200CC416A /* PBXTextBookmark */;
+			F16A7D211162A10D00BDE70B /* PBXTextBookmark */ = F16A7D211162A10D00BDE70B /* PBXTextBookmark */;
+			F16A7D221162A10D00BDE70B /* PBXTextBookmark */ = F16A7D221162A10D00BDE70B /* PBXTextBookmark */;
+			F16A7D261162A10D00BDE70B /* PBXTextBookmark */ = F16A7D261162A10D00BDE70B /* PBXTextBookmark */;
+			F16BBD5C1190C40D00C5116D /* PBXTextBookmark */ = F16BBD5C1190C40D00C5116D /* PBXTextBookmark */;
+			F16BE56C118C5566005703E5 /* PBXTextBookmark */ = F16BE56C118C5566005703E5 /* PBXTextBookmark */;
+			F16DC9F111F7670300848339 /* PBXTextBookmark */ = F16DC9F111F7670300848339 /* PBXTextBookmark */;
+			F16DC9F211F7670300848339 /* PBXTextBookmark */ = F16DC9F211F7670300848339 /* PBXTextBookmark */;
+			F16DC9F411F7670300848339 /* PBXTextBookmark */ = F16DC9F411F7670300848339 /* PBXTextBookmark */;
+			F1733B2911BDA84A00E29D80 /* PBXBookmark */ = F1733B2911BDA84A00E29D80 /* PBXBookmark */;
+			F1733B2B11BDA84A00E29D80 /* PBXBookmark */ = F1733B2B11BDA84A00E29D80 /* PBXBookmark */;
+			F1733B3611BDA84A00E29D80 /* PBXBookmark */ = F1733B3611BDA84A00E29D80 /* PBXBookmark */;
+			F17355811258BFE000661B71 /* PBXTextBookmark */ = F17355811258BFE000661B71 /* PBXTextBookmark */;
+			F17356351258C95400661B71 /* PBXTextBookmark */ = F17356351258C95400661B71 /* PBXTextBookmark */;
+			F17356361258C95400661B71 /* PBXTextBookmark */ = F17356361258C95400661B71 /* PBXTextBookmark */;
+			F173567A1258CC9B00661B71 /* PBXTextBookmark */ = F173567A1258CC9B00661B71 /* PBXTextBookmark */;
+			F173567B1258CC9B00661B71 /* PBXTextBookmark */ = F173567B1258CC9B00661B71 /* PBXTextBookmark */;
+			F173B6D811E7CE0000058901 /* PBXTextBookmark */ = F173B6D811E7CE0000058901 /* PBXTextBookmark */;
+			F178F1941256894F00268232 /* PBXTextBookmark */ = F178F1941256894F00268232 /* PBXTextBookmark */;
+			F17E7DD011E5AE210012347D /* PBXTextBookmark */ = F17E7DD011E5AE210012347D /* PBXTextBookmark */;
+			F17E7E2111E5B4C40012347D /* PBXTextBookmark */ = F17E7E2111E5B4C40012347D /* PBXTextBookmark */;
+			F17E7E4711E5B7B40012347D /* PBXTextBookmark */ = F17E7E4711E5B7B40012347D /* PBXTextBookmark */;
+			F17E7E4911E5B7B40012347D /* PBXTextBookmark */ = F17E7E4911E5B7B40012347D /* PBXTextBookmark */;
+			F17E7E4E11E5B7B40012347D /* PBXTextBookmark */ = F17E7E4E11E5B7B40012347D /* PBXTextBookmark */;
+			F17E7E8611E5BBEA0012347D /* PlistBookmark */ = F17E7E8611E5BBEA0012347D /* PlistBookmark */;
+			F19A9E8211669AE200E0DF2F /* PBXBookmark */ = F19A9E8211669AE200E0DF2F /* PBXBookmark */;
+			F19A9E8411669AE200E0DF2F /* PBXTextBookmark */ = F19A9E8411669AE200E0DF2F /* PBXTextBookmark */;
+			F1C0626212651834001DA7F7 /* PBXTextBookmark */ = F1C0626212651834001DA7F7 /* PBXTextBookmark */;
+			F1C4D116126B4DA90016B173 /* PBXTextBookmark */ = F1C4D116126B4DA90016B173 /* PBXTextBookmark */;
+			F1C4D117126B4DA90016B173 /* PBXTextBookmark */ = F1C4D117126B4DA90016B173 /* PBXTextBookmark */;
+			F1C4D118126B4DA90016B173 /* PBXTextBookmark */ = F1C4D118126B4DA90016B173 /* PBXTextBookmark */;
+			F1C4D119126B4DA90016B173 /* PBXTextBookmark */ = F1C4D119126B4DA90016B173 /* PBXTextBookmark */;
+			F1D0092E1162A35A00832A73 /* PBXTextBookmark */ = F1D0092E1162A35A00832A73 /* PBXTextBookmark */;
+			F1D0092F1162A35A00832A73 /* PBXTextBookmark */ = F1D0092F1162A35A00832A73 /* PBXTextBookmark */;
+			F1D0097C1162A68800832A73 /* PBXTextBookmark */ = F1D0097C1162A68800832A73 /* PBXTextBookmark */;
+			F1D0097D1162A68800832A73 /* PBXTextBookmark */ = F1D0097D1162A68800832A73 /* PBXTextBookmark */;
+			F1D0097E1162A68800832A73 /* PBXTextBookmark */ = F1D0097E1162A68800832A73 /* PBXTextBookmark */;
+			F1D009801162A68800832A73 /* PBXTextBookmark */ = F1D009801162A68800832A73 /* PBXTextBookmark */;
+			F1D009821162A68800832A73 /* PBXTextBookmark */ = F1D009821162A68800832A73 /* PBXTextBookmark */;
+			F1D0098C1162A74400832A73 /* PlistBookmark */ = F1D0098C1162A74400832A73 /* PlistBookmark */;
+			F1D0098D1162A74400832A73 /* PBXBookmark */ = F1D0098D1162A74400832A73 /* PBXBookmark */;
+			F1E128C81466E7C8006B8A54 /* PBXTextBookmark */ = F1E128C81466E7C8006B8A54 /* PBXTextBookmark */;
+			F1E129041466E81B006B8A54 /* PBXTextBookmark */ = F1E129041466E81B006B8A54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F16A7CE211629FFA00BDE70B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {835, 215}}";
+			sepNavSelRange = "{122, 0}";
+			sepNavVisRange = "{0, 221}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 48}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	63A452D60E0877A900AA59DC /* teapot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 5610}}";
+			sepNavSelRange = "{0, 7481}";
+			sepNavVisRange = "{2889, 314}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	63E8ED9D0E1ACA88004D3662 /* DiceView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1556, 6834}}";
+			sepNavSelRange = "{5924, 0}";
+			sepNavVisRange = "{10286, 1008}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	63E8ED9E0E1ACA88004D3662 /* DiceView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 1037}}";
+			sepNavSelRange = "{1428, 22}";
+			sepNavVisRange = "{1014, 696}";
+		};
+	};
+	AF85818110643D940004D36B /* DiceAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 465}}";
+			sepNavSelRange = "{70, 10}";
+			sepNavVisRange = "{0, 331}";
+		};
+	};
+	AF85818210643D940004D36B /* DiceAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 1190}}";
+			sepNavSelRange = "{718, 0}";
+			sepNavVisRange = "{213, 766}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F16816F3118A347200A0C063 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F169F7BB116A341400772DB8 /* DiceManager.h */;
+		name = "DiceManager.h: 21";
+		rLen = 68;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 36;
+	};
+	F168448212282B4500EC73D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E311F7661D00848339 /* Colliding.h */;
+		name = "Colliding.h: 20";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 527;
+	};
+	F168448312282B4500EC73D8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D4F2F990D10AC310045FB13 /* Default.png */;
+	};
+	F168448712282B4500EC73D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1684B68120DA0FE00568368 /* DiceManager.m */;
+		name = "DiceManager.m: 39";
+		rLen = 1;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 400;
+	};
+	F168473911F8B4EC00A730AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E411F7661D00848339 /* Colliding.m */;
+		name = "Colliding.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 0;
+	};
+	F1684B68120DA0FE00568368 /* DiceManager.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DiceManager.m;
+		path = /Users/diego/Documents/DiceRoller0.3/Classes/DiceManager.m;
+		sourceTree = "<absolute>";
+	};
+	F1684BFB120DAF0D00568368 /* walls.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 465}}";
+			sepNavSelRange = "{135, 162}";
+			sepNavVisRange = "{0, 299}";
+		};
+	};
+	F1684C0A120DB25600568368 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1684BFB120DAF0D00568368 /* walls.h */;
+		name = "walls.h: 15";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+	F169F74E116A2C8C00772DB8 /* gl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h;
+		sourceTree = "<absolute>";
+	};
+	F169F753116A2C8E00772DB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Prefix.pch */;
+		name = "Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 48;
+		vrLoc = 0;
+	};
+	F169F75C116A2C8E00772DB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Prefix.pch */;
+		name = "Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 48;
+		vrLoc = 0;
+	};
+	F169F761116A2C8E00772DB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009421162A3DF00832A73 /* Die.h */;
+		name = "Die.h: 16";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	F169F777116A2D6700772DB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F169F74E116A2C8C00772DB8 /* gl.h */;
+		name = "gl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1262;
+		vrLoc = 0;
+	};
+	F169F77E116A2D6700772DB8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F169F74E116A2C8C00772DB8 /* gl.h */;
+		name = "gl.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1262;
+		vrLoc = 0;
+	};
+	F169F7BB116A341400772DB8 /* DiceManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = DiceManager.h;
+		path = /Users/diego/Documents/DiceRoller0.2/Classes/DiceManager.h;
+		sourceTree = "<absolute>";
+	};
+	F16A1A4F1221774200CC416A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F17E7DC611E5AD9D0012347D /* numberFunctions.h */;
+		name = "numberFunctions.h: 9";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	F16A7CC011629FF400BDE70B /* DiceRoller */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DiceRoller;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fs = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	F16A7CE211629FFA00BDE70B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	F16A7CE311629FFA00BDE70B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F16A7D211162A10D00BDE70B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 221;
+	};
+	F16A7D221162A10D00BDE70B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF85818110643D940004D36B /* DiceAppDelegate.h */;
+		name = "GLGravityAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	F16A7D261162A10D00BDE70B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63A452D60E0877A900AA59DC /* teapot.h */;
+		name = "teapot.h: 50";
+		rLen = 8;
+		rLoc = 2460;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 1862;
+	};
+	F16BBD5C1190C40D00C5116D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63E8ED9D0E1ACA88004D3662 /* DiceView.m */;
+		name = "DiceView.m: 152";
+		rLen = 0;
+		rLoc = 5125;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 4022;
+	};
+	F16BE56C118C5566005703E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009561162A47300832A73 /* DiceView.m */;
+		name = "DiceView.m: 294";
+		rLen = 0;
+		rLoc = 9155;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 7261;
+	};
+	F16DC9E011F765D300848339 /* NewCollider.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 714}}";
+			sepNavSelRange = "{311, 41}";
+			sepNavVisRange = "{213, 522}";
+		};
+	};
+	F16DC9E111F765D300848339 /* NewCollider.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 2125}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{1209, 452}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	F16DC9E311F7661D00848339 /* Colliding.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1071}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{527, 729}";
+		};
+	};
+	F16DC9E411F7661D00848339 /* Colliding.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 4233}}";
+			sepNavSelRange = "{874, 0}";
+			sepNavVisRange = "{247, 628}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	F16DC9F111F7670300848339 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E011F765D300848339 /* NewCollider.h */;
+		name = "NewCollider.h: 17";
+		rLen = 0;
+		rLoc = 735;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	F16DC9F211F7670300848339 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E111F765D300848339 /* NewCollider.m */;
+		name = "NewCollider.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 198;
+		vrLoc = 0;
+	};
+	F16DC9F411F7670300848339 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E311F7661D00848339 /* Colliding.h */;
+		name = "Colliding.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 0;
+	};
+	F1733B2911BDA84A00E29D80 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 14078D150DD3BF69003D766A /* Icon.png */;
+	};
+	F1733B2B11BDA84A00E29D80 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F1733B2011BDA80C00E29D80 /* wood.png */;
+	};
+	F1733B3611BDA84A00E29D80 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F1733B2011BDA80C00E29D80 /* wood.png */;
+	};
+	F17355811258BFE000661B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF85818110643D940004D36B /* DiceAppDelegate.h */;
+		name = "DiceAppDelegate.h: 5";
+		rLen = 10;
+		rLoc = 70;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	F17356351258C95400661B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF85818210643D940004D36B /* DiceAppDelegate.m */;
+		name = "DiceAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 718;
+		rType = 0;
+		vrLen = 766;
+		vrLoc = 213;
+	};
+	F17356361258C95400661B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009421162A3DF00832A73 /* Die.h */;
+		name = "Die.h: 17";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 66;
+	};
+	F173567A1258CC9B00661B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E411F7661D00848339 /* Colliding.m */;
+		name = "Colliding.m: 46";
+		rLen = 0;
+		rLoc = 874;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 247;
+	};
+	F173567B1258CC9B00661B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E011F765D300848339 /* NewCollider.h */;
+		name = "NewCollider.h: 20";
+		rLen = 41;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 213;
+	};
+	F173B6D811E7CE0000058901 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	F1775EA211D3FFFA0045E097 /* rand.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = rand.c;
+		path = /Users/diego/Downloads/rand.c;
+		sourceTree = "<absolute>";
+	};
+	F178F1941256894F00268232 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009431162A3DF00832A73 /* Die.m */;
+		name = "Die.m: 40";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 315;
+	};
+	F17E7DC611E5AD9D0012347D /* numberFunctions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 2397}}";
+			sepNavSelRange = "{135, 0}";
+			sepNavVisRange = "{0, 393}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F17E7DD011E5AE210012347D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F17E7DC611E5AD9D0012347D /* numberFunctions.h */;
+		name = "numberFunctions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 145;
+		vrLoc = 0;
+	};
+	F17E7E1C11E5B4C40012347D /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	F17E7E2111E5B4C40012347D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1775EA211D3FFFA0045E097 /* rand.c */;
+		name = "rand.c: 157";
+		rLen = 71;
+		rLoc = 3051;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 2813;
+	};
+	F17E7E4711E5B7B40012347D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F17E7E1C11E5B4C40012347D /* stdlib.h */;
+		name = "stdlib.h: 223";
+		rLen = 20;
+		rLoc = 7419;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 0;
+	};
+	F17E7E4911E5B7B40012347D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1775EA211D3FFFA0045E097 /* rand.c */;
+		name = "rand.c: 80";
+		rLen = 0;
+		rLoc = 1787;
+		rType = 0;
+		vrLen = 864;
+		vrLoc = 0;
+	};
+	F17E7E4E11E5B7B40012347D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F17E7E1C11E5B4C40012347D /* stdlib.h */;
+		name = "stdlib.h: 223";
+		rLen = 20;
+		rLoc = 7419;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 0;
+	};
+	F17E7E8611E5BBEA0012347D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = /Users/diego/Documents/DiceRoller0.3/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	F19A9E8211669AE200E0DF2F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 14078D150DD3BF69003D766A /* Icon.png */;
+	};
+	F19A9E8411669AE200E0DF2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009411162A3DF00832A73 /* DiceManager.m */;
+		name = "DiceManager.m: 58";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	F1C0626212651834001DA7F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F16DC9E111F765D300848339 /* NewCollider.m */;
+		name = "NewCollider.m: 14";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 1209;
+	};
+	F1C4D116126B4DA90016B173 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63A452D60E0877A900AA59DC /* teapot.h */;
+		name = "teapot.h: 1";
+		rLen = 7481;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 2889;
+	};
+	F1C4D117126B4DA90016B173 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1684BFB120DAF0D00568368 /* walls.h */;
+		name = "walls.h: 10";
+		rLen = 162;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	F1C4D118126B4DA90016B173 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009401162A3DF00832A73 /* DiceManager.h */;
+		name = "DiceManager.h: 23";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	F1C4D119126B4DA90016B173 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63E8ED9E0E1ACA88004D3662 /* DiceView.h */;
+		name = "DiceView.h: 53";
+		rLen = 22;
+		rLoc = 1428;
+		rType = 0;
+		vrLen = 696;
+		vrLoc = 1014;
+	};
+	F1D0092E1162A35A00832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B57FB700DA56F450091B3B1 /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1515;
+		vrLoc = 0;
+	};
+	F1D0092F1162A35A00832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B57FB700DA56F450091B3B1 /* ReadMe.txt */;
+		name = "ReadMe.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1515;
+		vrLoc = 0;
+	};
+	F1D009401162A3DF00832A73 /* DiceManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 510}}";
+			sepNavSelRange = "{422, 0}";
+			sepNavVisRange = "{0, 507}";
+		};
+	};
+	F1D009411162A3DF00832A73 /* DiceManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1177}}";
+			sepNavSelRange = "{598, 0}";
+			sepNavVisRange = "{509, 256}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F1D009421162A3DF00832A73 /* Die.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 561}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{66, 387}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F1D009431162A3DF00832A73 /* Die.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 1989}}";
+			sepNavSelRange = "{567, 0}";
+			sepNavVisRange = "{315, 401}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	F1D009561162A47300832A73 /* DiceView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DiceView.m;
+		path = /Users/diego/Documents/DiceRoller0.2/Classes/DiceView.m;
+		sourceTree = "<absolute>";
+	};
+	F1D0097C1162A68800832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AF85818210643D940004D36B /* DiceAppDelegate.m */;
+		name = "DiceAppDelegate.m: 1";
+		rLen = 28;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 0;
+	};
+	F1D0097D1162A68800832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009561162A47300832A73 /* DiceView.m */;
+		name = "DiceView.m: 66";
+		rLen = 0;
+		rLoc = 1907;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 1438;
+	};
+	F1D0097E1162A68800832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63E8ED9E0E1ACA88004D3662 /* DiceView.h */;
+		name = "DiceView.h: 8";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 957;
+		vrLoc = 0;
+	};
+	F1D009801162A68800832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009401162A3DF00832A73 /* DiceManager.h */;
+		name = "DiceManager.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	F1D009821162A68800832A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1D009431162A3DF00832A73 /* Die.m */;
+		name = "Die.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	F1D0098C1162A74400832A73 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/diego/Documents/DiceRoller0.2/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	F1D0098D1162A74400832A73 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D4F2F990D10AC310045FB13 /* Default.png */;
+	};
+	F1E128C81466E7C8006B8A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63E8ED9D0E1ACA88004D3662 /* DiceView.m */;
+		name = "DiceView.m: 211";
+		rLen = 0;
+		rLoc = 5924;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 7202;
+	};
+	F1E129041466E81B006B8A54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63E8ED9D0E1ACA88004D3662 /* DiceView.m */;
+		name = "DiceView.m: 211";
+		rLen = 0;
+		rLoc = 5924;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 10286;
+	};
+}

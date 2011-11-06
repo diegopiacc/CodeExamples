@@ -3,7 +3,26 @@ DP's unordered mess of CodeExamples
 
 This project is intended as a backup archive and showcase of (sadly) old code wirtten by me, that is not covered by licenses owned by any of my former employers.
 
+Details about subdirectories:
 
 
+ DiceRoller0.3
+  An iPhone app that I am developing, in spare time, to roll polyhedral dice for Role-Play games, with realistic collision and roll by shaking. Still work-in-progress.
 
 
+ CurtainClothSim
+  "Laurea Specialistica" degree thesis project. Renders a curtain with realistic cloth simulation and self-collision detection on a user-defined background. UI Written in C#, physics in C++ for performance reasons.
+    TMain
+      Main aapplication UI.
+    TPhysic
+      Physics simulation module, manages the cloth behavior, the collision detection and similar things.
+    TRender
+      OpenGL Rendering module.
+
+
+ MeshView
+  very simple C++ OpenGL .obj file viewer.
+
+
+ Arts
+  ...ok, this is not code. My hobby-created rendering of 3D models (Done with 3DS Max, Poser and Photoshop)
